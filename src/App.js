@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          I was Chnaged!
+          I was Changed on the Feature branch!
         </header>
       </div>
     );
